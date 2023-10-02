@@ -1,3 +1,3 @@
-# Comprehensible Open License 2.0
+# Comprehensible Open License 1.0
 
-View at: https://thelicensinggroup.github.io/comprehensible-open-license-2.0
+View at: https://thelicensinggroup.github.io/comprehensible-open-license-1.0
